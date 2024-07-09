@@ -9,4 +9,8 @@
 - 1次元CNN
 - WaveNet
 
-![prediction sample](./predict-sample.png "Prediction Sample")
+![prediction sample 1](./predict-samples/sample1.png "Prediction Sample 1")
+
+![prediction sample 2](./predict-samples/sample2.png "Prediction Sample 2")
+
+![prediction sample 3](./predict-samples/sample3.png "Prediction Sample 3")
